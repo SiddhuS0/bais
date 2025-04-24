@@ -1,0 +1,29 @@
+{
+  "siddhu": {
+    "name": "Siddhartha",
+    "password": "9c7303b5b33e7863d4b5b2d1ec979f4e68ba1af542350488c6e3ab5ff6e7fe14",
+    "datasets": [
+      {
+        "id": "9d50871c-ed8d-4acf-8bed-30d8ccee508e",
+        "filename": "extended_business_data_india.csv",
+        "upload_date": "2025-04-24T23:32:45.025541"
+      },
+      {
+        "id": "30c7fcdc-03cf-405b-9840-a28d54682781",
+        "filename": "forecast.csv",
+        "upload_date": "2025-04-24T23:33:39.315200"
+      }
+    ]
+  },
+  "sriram": {
+    "name": "Sri Ram",
+    "password": "34806f234e0cbdb9709bc6f9070803f481150a7ca5c6dd27a5bf5bfef957695e",
+    "datasets": [
+      {
+        "id": "8021c62e-ef27-47c9-9d4f-761ff4b2f256",
+        "filename": "Amazon_dataset.csv",
+        "upload_date": "2025-04-24T23:45:41.902566"
+      }
+    ]
+  }
+}
